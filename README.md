@@ -8,4 +8,4 @@
 
 ## Vídeo do Projeto
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ssSCGwy_Qfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Assista ao Vídeo](datafolio.png)](https://www.youtube.com/watch?v=_J6fSFcAhDU)
